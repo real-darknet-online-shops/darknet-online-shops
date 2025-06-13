@@ -124,4 +124,6 @@ Use official .onion URLs, and verify the links.
 Navigating darknet online shops requires diligence. Follow the guidance, and remember that engaging in market activities may be illegal in your jurisdiction.
 Plase contribute and add stars to this repo.
 
-Update: Updated IDE configuration documentation
+
+
+Update: Fixed broken link, now reachable
