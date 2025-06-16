@@ -126,4 +126,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update: Fixed broken link, now reachable
+
+
+Update: Corrected broken links in privacy documentation
