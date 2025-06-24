@@ -134,4 +134,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update: link is up and running
+
+
+Update: Link is now responsive and operational
